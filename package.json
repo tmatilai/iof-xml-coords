@@ -1,0 +1,25 @@
+{
+  "name": "iof-xml-coords",
+  "version": "1.0.0",
+  "description": "Convert coordinates in an IOF-XML file",
+  "author": "Teemu Matilainen <teemu.matilainen@iki.fi>",
+  "license": "ISC",
+  "homepage": "https://github.com/tmatilai/iof-xml-coords#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmatilai/iof-xml-coords.git"
+  },
+  "bin": {
+    "iof-xml-coords": "src/cli.js"
+  },
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^5.1.0",
+    "proj4": "^2.6.1"
+  },
+  "bugs": {
+    "url": "https://github.com/tmatilai/iof-xml-coords/issues"
+  }
+}
