@@ -1,6 +1,6 @@
 # iof-xml-coords
 
-[![npm version](https://badge.fury.io/tmatilai/iof-xml-coords.svg)](https://badge.fury.io/tmatilai/iof-xml-coords)
+[![npm version](https://badge.fury.io/js/iof-xml-coords.svg)](https://badge.fury.io/js/iof-xml-coords)
 
 Convert the coordinates in an [IOF-XML](https://orienteering.sport/iof/it/data-standard-3-0/) file to WGS84.
 
