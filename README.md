@@ -25,7 +25,6 @@ iof-xml-coords [-s <projection>] <file>
 ### Options
 
 * `-s, --src <projection>` -  The source projection (default: "GK25FIN")
-
 * `-h, --help` - Display help
 * `-V, --version` - Output the version number
 
